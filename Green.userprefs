@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\Garb8Controller.cs">
+    <Files>
+      <File FileName="Assets\Scripts\AreaGreenA.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\AreaGreenB.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CanGenerator.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\AudioFXManager.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CameraController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CanController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\CerealBoxController.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Garb8Controller.cs" Line="68" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
